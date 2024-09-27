@@ -1,4 +1,3 @@
-package cc.openhome;
 
 public class Odd {
     public static void main(String[] args) {
@@ -6,10 +5,10 @@ public class Odd {
         var remain = input % 2; 
         
         if(remain == 1) {
-            System.out.printf("%d ¬O©_¼Æ%n", input); 
+            System.out.printf("%d æ˜¯å¥‡æ•¸%n", input); 
         } 
         else {
-            System.out.printf("%d ¬O°¸¼Æ%n", input); 
+            System.out.printf("%d ä¸æ˜¯å¥‡æ•¸%n", input); 
         }
     }
 }
