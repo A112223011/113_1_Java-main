@@ -1,4 +1,3 @@
-package cc.openhome;
 
 public class Level4 {
     public static void main(String[] args) {
@@ -16,6 +15,6 @@ public class Level4 {
             default:
                 yield 'E';
         };
-        System.out.printf("±o¤Àµ¥¯Å¡G%c%n", level);
+        System.out.printf("å¾—åˆ†ç­‰ç´šï¼š%c%n", level);
     }
 }
