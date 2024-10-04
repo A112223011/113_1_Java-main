@@ -1,4 +1,3 @@
-package cc.openhome;
 
 import java.math.BigDecimal;
 
@@ -10,10 +9,10 @@ public class DecimalDemo2 {
         var result = new BigDecimal("0.3");
         
         if(op1.add(op2).add(op3).equals(result)) {
-            System.out.println("µ•©Û 0.3");
+            System.out.println("Á≠âÊñº 0.3");
         }
         else {
-            System.out.println("§£µ•©Û 0.3");
+            System.out.println("‰∏çÁ≠âÊñº 0.3");
         }
     }
 } 
