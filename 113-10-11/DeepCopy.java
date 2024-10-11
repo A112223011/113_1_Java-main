@@ -1,5 +1,3 @@
-package cc.openhome;
-
 class Clothes2 {
     String color;
     char size;
