@@ -8,7 +8,7 @@ public class CashCard {
     private static int cardOrder;
     //方法的身分辨識 = 方法名稱 + 參數個數 + 參數型態
     public CashCard() {
-        this.number = "unknown";
+        setNumber("unknown");
     }
     public CashCard(String number) {
         setNumber(number);
@@ -18,6 +18,7 @@ public class CashCard {
     public CashCard(String number, int balance) {
         setNumber(number);
         setBalance(balance);
+        System.out.printf("第 %d 張卡%n", ++this.cardOrder);
     }
 
     public CashCard(String number, int balance, int bonus) {
