@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/113-11-01.iml" filepath="$PROJECT_DIR$/.idea/113-11-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasA/HasA.iml" filepath="$PROJECT_DIR$/HasA/HasA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inhenritance01/Inhenritance01.iml" filepath="$PROJECT_DIR$/Inhenritance01/Inhenritance01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VarAgsTest/VarAgsTest.iml" filepath="$PROJECT_DIR$/VarAgsTest/VarAgsTest.iml" />
+    </modules>
+  </component>
+</project>
